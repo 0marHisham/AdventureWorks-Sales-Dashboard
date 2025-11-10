@@ -20,7 +20,3 @@ It provides interactive insights into **sales, customers, products, and regional
 - **Power BI Desktop** for creating interactive dashboards  
 - **DAX** for dynamic measures and calculations  
 - **AdventureWorks dataset**  
-
----
-
-## Project Structure
